@@ -1,0 +1,27 @@
+current directory: C:/Users/81802/Desktop/project_k/ruby/rails_task_app/vendor/bundle/ruby/3.2.0/gems/puma-5.6.5/ext/puma_http11
+C:/Ruby32-x64/bin/ruby.exe -I C:/Ruby32-x64/lib/ruby/3.2.0 extconf.rb
+checking for whether -fstack-protector-strong -D_FORTIFY_SOURCE=2 is accepted as CFLAGS... yes
+checking for whether -fstack-protector-strong -l:libssp.a is accepted as LDFLAGS... yes
+checking for -lssp... yes
+checking for BIO_read() in -lcrypto... no
+checking for BIO_read() in -llibeay32... no
+** Puma will be compiled without SSL support
+creating Makefile
+
+current directory: C:/Users/81802/Desktop/project_k/ruby/rails_task_app/vendor/bundle/ruby/3.2.0/gems/puma-5.6.5/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20230408-55032-fpxr90 sitelibdir\=./.gem.20230408-55032-fpxr90 clean
+
+current directory: C:/Users/81802/Desktop/project_k/ruby/rails_task_app/vendor/bundle/ruby/3.2.0/gems/puma-5.6.5/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20230408-55032-fpxr90 sitelibdir\=./.gem.20230408-55032-fpxr90
+generating puma_http11-x64-mingw-ucrt.def
+compiling http11_parser.c
+compiling mini_ssl.c
+compiling puma_http11.c
+linking shared-object puma/puma_http11.so
+
+current directory: C:/Users/81802/Desktop/project_k/ruby/rails_task_app/vendor/bundle/ruby/3.2.0/gems/puma-5.6.5/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20230408-55032-fpxr90 sitelibdir\=./.gem.20230408-55032-fpxr90 install
+/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20230408-55032-fpxr90/puma
+
+current directory: C:/Users/81802/Desktop/project_k/ruby/rails_task_app/vendor/bundle/ruby/3.2.0/gems/puma-5.6.5/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20230408-55032-fpxr90 sitelibdir\=./.gem.20230408-55032-fpxr90 clean

@@ -1,0 +1,19 @@
+current directory: C:/Users/81802/Desktop/project_k/ruby/rails_task_app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+C:/Ruby32-x64/bin/ruby.exe -I C:/Ruby32-x64/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: C:/Users/81802/Desktop/project_k/ruby/rails_task_app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230408-157884-pwnrix sitelibdir\=./.gem.20230408-157884-pwnrix clean
+
+current directory: C:/Users/81802/Desktop/project_k/ruby/rails_task_app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230408-157884-pwnrix sitelibdir\=./.gem.20230408-157884-pwnrix
+generating websocket_mask-x64-mingw-ucrt.def
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: C:/Users/81802/Desktop/project_k/ruby/rails_task_app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230408-157884-pwnrix sitelibdir\=./.gem.20230408-157884-pwnrix install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20230408-157884-pwnrix
+
+current directory: C:/Users/81802/Desktop/project_k/ruby/rails_task_app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230408-157884-pwnrix sitelibdir\=./.gem.20230408-157884-pwnrix clean
